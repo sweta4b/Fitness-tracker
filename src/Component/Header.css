@@ -1,0 +1,19 @@
+.header {
+  background-color: #05386b;
+  /* height: 10vh; */
+  color: rgb(181, 201, 189);
+  box-shadow: 2px 2px 10px 2px #05386b;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.link-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
